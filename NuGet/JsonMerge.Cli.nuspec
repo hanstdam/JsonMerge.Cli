@@ -2,15 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>JsonMerge.Cli</id>
-		<version>1.0</version>
-		<title>Json file merging</title>
+		<version>1.0.1</version>
+		<title>JsonMerge.Cli</title>
 		<authors>hanstdam</authors>
 		<description>A command line interface for combining json files.</description>
 		<language>en-US</language>
 		<projectUrl>https://github.com/hanstdam/JsonMerge.Cli</projectUrl>
-		<dependencies>
-			<dependency id="Newtonsoft.Json" version="9.0.1" />
-		</dependencies>
 		<tags>json</tags>
 	</metadata>
 </package>
