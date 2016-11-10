@@ -5,7 +5,7 @@
 		<version>1.0</version>
 		<title>Json file merging</title>
 		<authors>hanstdam</authors>
-		<description>The tool merges multiple json files into a single json file. </description>
+		<description>A command line interface for combining json files.</description>
 		<language>en-US</language>
 		<projectUrl>https://github.com/hanstdam/JsonMerge.Cli</projectUrl>
 		<dependencies>
