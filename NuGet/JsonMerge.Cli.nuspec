@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>JsonMerge.Cli</id>
+		<version>1.0</version>
+		<title>Json file merging</title>
+		<authors>hanstdam</authors>
+		<description>The tool merges multiple json files into a single json file. </description>
+		<language>en-US</language>
+		<projectUrl>https://github.com/hanstdam/JsonMerge.Cli</projectUrl>
+		<dependencies>
+			<dependency id="Newtonsoft.Json" version="9.0.1" />
+		</dependencies>
+		<tags>json</tags>
+	</metadata>
+</package>
